@@ -19,11 +19,8 @@
  
 </head>
 <body>
-<div>
-
-<img src="IMG_20240909_011730_049.jpg"Width:1929 px; height:1080 px;
-
-
+<div class="gstyle">
+        <a <img src="IMG_20240909_011730_049.jpg"></a>
  
 </div>
 
