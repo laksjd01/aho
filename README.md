@@ -19,8 +19,8 @@
  
 </head>
 <body>
-<div class="gstyle">
-        <a <img src="IMG_20240909_011730_049.jpg"></a>
+<div class="img">
+        <img src="IMG_20240909_011730_049.jpg">
  
 </div>
 
