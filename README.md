@@ -4,7 +4,7 @@
 
 <meta name="viewport" content="width=device-width,
  initial-scale=1.0">
-
+<link href="gallerystyle.css" rel="stylesheet" type="text/css">
 
 
 
@@ -29,7 +29,8 @@
         <img src="IMG_20240909_011730_049.jpg">
  
 
-
+</body>
 
 
  
+</html>
