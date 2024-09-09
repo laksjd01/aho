@@ -19,7 +19,7 @@
 </head>
 body{
 <div 
- background-image: url(".../202409091180908344023241086.jpg");
+ background- colour: blue
 <h1>
  aqua
 </h1>
