@@ -17,7 +17,7 @@
 
  
 </head>
-body{
+<bod>
 
  background- colour: blue
 <h1>
