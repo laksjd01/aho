@@ -17,7 +17,7 @@
 
  
 </head>
-<body>
+body{
 <div 
  background-image: url(".../202409091180908344023241086.jpg");
 <h1>
@@ -27,7 +27,7 @@
 
  <div class="img">
         <img src="IMG_20240909_011730_049.jpg">
- 
+ }
 </div>
 
 <div class=ban 
