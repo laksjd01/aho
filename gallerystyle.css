@@ -42,7 +42,7 @@ height:100%;
 
 }
 body{
-background-image:url(".../202409091180908344023241086.jpg");
+backgroundimage:url(".../202409091180908344023241086.jpg");
 background-img:"202409091180908344023241086.jpg";
 
 
@@ -54,5 +54,5 @@ background-img:"202409091180908344023241086.jpg";
 .td1{
 witdth:300px;
     height:399px;
-    background-image:("IMG_20240909_011730_049.jpg");
+    backgroundimg:("IMG_20240909_011730_049.jpg");
 }
