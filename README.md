@@ -18,8 +18,8 @@
  
 </head>
 <body>
-<div class=ban
- background:img=url(202409091180908344023241086.jpg);
+<div 
+ background-image: url("202409091180908344023241086.jpg");
 <h1>
  aqua
 </h1>
