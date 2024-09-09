@@ -18,7 +18,7 @@
  
 </head>
 <body>
-<div> class="ban"
+<div> class=ban
 <h1>
  aqua
 </h1>
