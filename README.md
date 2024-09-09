@@ -24,7 +24,7 @@
  aqua
 </h1>
  
-</div>
+
  <div class="img">
         <img src="IMG_20240909_011730_049.jpg">
  
