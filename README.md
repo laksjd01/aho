@@ -23,7 +23,7 @@
  <td>affagua</td>
 </table>
  <div
- img src :"IMG_20240909_011730_049.jpg">
+ img :"IMG_20240909_011730_049.jpg">
 
 
 </body>
