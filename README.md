@@ -5,10 +5,7 @@
 
 <link href="gallerystyle.css" rel="stylesheet" type="text/css">
 
-
-<title aqua >
-</title>
-
+ aqua
 
 
 
@@ -16,7 +13,7 @@
 
  
 </head>
-<body>
+<body img src="202409091180908344023241086.jpg">
 <table>
   <tr>
  <td class="td1"></td>
@@ -25,9 +22,12 @@
   
  <div>
  <img src= "IMG_20240909_011730_049.jpg">
-
-
-</body>
+background-imgage:url(.../"202409091180908344023241086.jpg");
+< /div>
+ <div class="body">
+< img src="202409091180908344023241086.jpg">
+ </div>
+ </body>
 
 
  
