@@ -42,10 +42,11 @@ height:100%;
 
 }
 body{
-backgroundimage:url(".../202409091180908344023241086.jpg");
+background-image:url(".../202409091180908344023241086.jpg");
 background-img:"202409091180908344023241086.jpg";
-img:"IMG_20240909_011730_049.jpg"
-
+border:50000px;
+    height:1000px;
+    width:450px;
 
 
 
